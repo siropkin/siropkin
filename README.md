@@ -1,6 +1,8 @@
 ### Hi! I'm Ivan 👋
 
-My name is Ivan Seredkin, I'm a frontend developer based in Saint Petersburg, Russia 🌉. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️.
+My name is Ivan Seredkin, I'm a frontend developer based in Saint Petersburg, Russia.
+
+I make dashboards and apps, love web developing, data visualization and I am always hungry to keep learning.
 
 <img src="https://github-readme-stats.vercel.app/api?username=siropkin&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 
