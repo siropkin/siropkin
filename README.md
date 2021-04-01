@@ -2,7 +2,7 @@
 
 My name is Ivan Seredkin, I'm a frontend developer based in Saint Petersburg, Russia.
 
-In past, I got big manager experience but a while ago I followed my dreams and became a developer who in love with web development, creating UI kits, charts, maps, dashboards, and all that stuff.
+In past, I got big manager experience but a while ago I followed my dreams and became a developer who in love with web development, the development of UI kits, charts, maps, dashboards, and all that stuff.
 
 In my free time, I do fitness 🤸‍♂️ or open-source projects 👾, for example, https://github.com/Atarity/Kata
 
