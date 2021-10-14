@@ -4,7 +4,7 @@ My name is Ivan Seredkin, I'm a front-end developer based in Saint Petersburg, R
 
 In the past, I got big manager experience but a while ago I followed my dreams and became a developer who is in love with web development, the development of UI kits, charts, maps, dashboards, and all that stuff.
 
-In my free time, I do fitness 🤸‍♂️ or open-source projects 👾, for example, [🏁 Final Form Focus On Fist Field](https://github.com/siropkin/final-form-focus-on-fist-field) or [Kata](https://github.com/Atarity/Kata).
+In my free time, I do fitness 🤸‍♂️ or open-source projects 👾, for example, [🏁 Final Form Focus On Fist Field](https://github.com/siropkin/final-form-focus-on-first-field) or [Kata](https://github.com/Atarity/Kata).
 
 <img src="https://github-readme-stats.vercel.app/api?username=siropkin&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 
