@@ -1,6 +1,6 @@
 ### Hi! I'm Ivan 👋
 
-Experienced software developer with a management background. I transitioned to pursuing my passion for web development, specializing in UI kits, charts, maps, and dashboards. In my spare time, I'm into fitness 🤸‍♂️ and contribute to open-source projects 👾 like, for example, [🏁 Final Form Focus On Fist Field](https://github.com/siropkin/final-form-focus-on-first-field) or [Kursor](https://github.com/siropkin/kursor).
+Experienced software developer with a management background. I transitioned to pursuing my passion for web development, specializing in UI kits, charts, maps, and dashboards. In my spare time, I'm into fitness 🤸‍♂️ and contribute to open-source projects 👾 like [🏁 Final Form Focus On Fist Field](https://github.com/siropkin/final-form-focus-on-first-field) or [Kursor](https://github.com/siropkin/kursor).
 
 <img src="https://github-readme-stats.vercel.app/api?username=siropkin&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 
