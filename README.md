@@ -1,6 +1,6 @@
 ### Hi! I'm Ivan 👋
 
-Experienced software developer with a management background. I transitioned to pursuing my passion for web development, specializing in UI kits, charts, maps, and dashboards. In my spare time, I'm into CrossFit and contribute to open-source projects.
+I am a dedicated software developer who enjoys working on frontend development and solving problems creatively. I have experience in building user-friendly interfaces and reliable backend systems, and I like creating web applications that are useful for people. Outside of work, I do CrossFit and participate in open-source projects to connect with other developers.
 
 <img src="https://github-readme-stats.vercel.app/api?username=siropkin&show_icons=true&hide_border=true&hide_title=true&count_private=true"/>
 
