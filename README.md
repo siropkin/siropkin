@@ -34,5 +34,5 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 Outside of code, you'll find me at CrossFit or out sailing.
 
 [![Website](https://img.shields.io/badge/srdkn.com-000000?style=flat-square&logo=safari&logoColor=white)](https://srdkn.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siropkin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanseredkin)
 [![GitHub Follow](https://img.shields.io/github/followers/siropkin?label=Follow&style=flat-square&logo=github)](https://github.com/siropkin)
