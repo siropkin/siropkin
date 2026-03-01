@@ -16,6 +16,7 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 
 ### Projects
 
+- 🤝 **[budi](https://github.com/siropkin/budi)** — Fast local context helper for Claude Code hooks (Rust, git-aware, private-by-default)
 - 🤖 **[robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot)** — Simple AI-powered trading bot for Robinhood
 - ⌨️ **[kursor](https://github.com/siropkin/kursor)** — IntelliJ plugin: color-coded keyboard language on your cursor
 - ⌨️ **[kursor-vscode](https://github.com/siropkin/kursor-vscode)** — VS Code extension: keyboard language indicator on your cursor
