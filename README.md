@@ -21,7 +21,7 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 - 🤖 **[robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot)** — Simple AI-powered trading bot for Robinhood
 - ⌨️ **[kursor](https://github.com/siropkin/kursor)** — IntelliJ plugin: color-coded keyboard language on your cursor
 - ⌨️ **[kursor-vscode](https://github.com/siropkin/kursor-vscode)** — VS Code extension: keyboard language indicator on your cursor
-- 🗺️ **[ai-playground-map](https://github.com/siropkin/ai-playground-map)** — Find playgrounds for kids nearby, powered by Gemini AI
+- 🗺️ **[ai-playground-map](goodplaygroundmap.com)** — Find playgrounds for kids nearby, powered by Gemini AI
 - 🧩 **[ai-tech-task-solver-chrome-extension](https://github.com/siropkin/ai-tech-task-solver-chrome-extension)** — Chrome extension using GPT-4 Vision & Claude to solve coding challenges
 - 🍕 **[verkadalizer](https://github.com/siropkin/verkadalizer)** — AI that turns text-based food menus into realistic images
 
