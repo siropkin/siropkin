@@ -17,7 +17,7 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 ### Projects
 
 - 🏎️ **[dom-racer](https://github.com/siropkin/dom-racer)** — Chrome extension that turns any webpage into a tiny top-down arcade racer
-- 🤝 **[budi](https://github.com/siropkin/budi)** — Fast local context helper for Claude Code hooks (Rust, git-aware, private-by-default)
+- 📊 **[budi](https://github.com/siropkin/budi)** — WakaTime for Claude Code — local-first analytics dashboard that shows where your tokens go
 - 🤖 **[robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot)** — Simple AI-powered trading bot for Robinhood
 - ⌨️ **[kursor](https://github.com/siropkin/kursor)** — IntelliJ plugin: color-coded keyboard language on your cursor
 - ⌨️ **[kursor-vscode](https://github.com/siropkin/kursor-vscode)** — VS Code extension: keyboard language indicator on your cursor
