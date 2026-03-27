@@ -16,10 +16,10 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 
 ### Projects
 
+- 📊 **[budi](https://github.com/siropkin/budi)** — AI cost analytics for coding agents — know where your tokens and money go
 - 🏎️ **[dom-racer](https://github.com/siropkin/dom-racer)** — Chrome extension that turns any webpage into a tiny top-down arcade racer
-- 📊 **[budi](https://github.com/siropkin/budi)** — WakaTime for Claude Code — local-first analytics dashboard that shows where your tokens go
 - 🤖 **[robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot)** — Simple AI-powered trading bot for Robinhood
-- ⌨️ **[kursor](https://github.com/siropkin/kursor)** — IntelliJ plugin: color-coded keyboard language on your cursor
+- ⌨️ **[kursor-intellij](https://github.com/siropkin/kursor)** — IntelliJ plugin: color-coded keyboard language on your cursor
 - ⌨️ **[kursor-vscode](https://github.com/siropkin/kursor-vscode)** — VS Code extension: keyboard language indicator on your cursor
 - 🗺️ **[ai-playground-map](https://goodplaygroundmap.com)** — Find playgrounds for kids nearby, powered by Gemini AI
 - 🧩 **[ai-tech-task-solver-chrome-extension](https://github.com/siropkin/ai-tech-task-solver-chrome-extension)** — Chrome extension using GPT-4 Vision & Claude to solve coding challenges
