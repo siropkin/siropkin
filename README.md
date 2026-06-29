@@ -16,7 +16,7 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 
 ### Projects
 
-- ✴️ **[claude-code-statusline]([https://github.com/siropkin/budi)](https://github.com/siropkin/claude-code-statusline)** — Custom statusline for Claude Code CLI that shows account spending limits, session cost, context usage, model info, and git status.
+- ✴️ **[claude-code-statusline](https://github.com/siropkin/claude-code-statusline)** — Custom statusline for Claude Code CLI that shows account spending limits, session cost, context usage, model info, and git status.
 - 📊 **[budi](https://github.com/siropkin/budi)** — AI cost analytics for coding agents — know where your tokens and money go
 - 🏎️ **[dom-racer](https://github.com/siropkin/dom-racer)** — Chrome extension that turns any webpage into a tiny top-down arcade racer
 - 🤖 **[robinhood-ai-trading-bot](https://github.com/siropkin/robinhood-ai-trading-bot)** — Simple AI-powered trading bot for Robinhood
