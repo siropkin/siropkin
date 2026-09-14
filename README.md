@@ -16,6 +16,7 @@ Frontend engineer by day, AI experimenter on nights and weekends. I build tools 
 
 ### Projects
 
+- 🛠️ **[side project census](https://srdkn.com/side-project-census/)** — year-to-date census of r/SideProject: 90,758 side projects classified and counted
 - 📡 **[offer radar](https://srdkn.com/offer-radar/)** — every recruiter pitch I've received since Jan 2025, logged & answered
 - 🌉 **[chrome-bridge](https://github.com/siropkin/chrome-bridge)** — Let any AI agent drive your real logged-in Chrome — open tabs, sessions, SSO — via one CLI and one extension, zero dependencies
 - ✴️ **[claude-code-statusline](https://github.com/siropkin/claude-code-statusline)** — Custom statusline for Claude Code CLI that shows account spending limits, session cost, context usage, model info, and git status.
